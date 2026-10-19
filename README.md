@@ -3,7 +3,7 @@
 Welcome to my German STEM learning repository!
 
 ## 🎯 Goal
-I am a CBSE Class 11 student from India preparing to study STEM in Germany.
+I am a CBSE Class 11 student from Madhya Pradesh India preparing to study STEM in Germany.
 
 This repository documents my learning journey in:
 - 📐 Mathematics
